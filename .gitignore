@@ -1,0 +1,4 @@
+# clion cmake cache
+/example-cpp-cmake/cmake-build-*/
+# clion ide files
+/example-cpp-cmake/.idea
