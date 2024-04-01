@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"${PROJECT_NAME}"
+	"file"	"addons/${PROJECT_NAME}/bin/${PLUGIN_PLATFORM}/${PROJECT_NAME}"
+}
